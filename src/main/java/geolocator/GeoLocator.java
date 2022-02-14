@@ -11,7 +11,7 @@ import com.google.common.net.UrlEscapers;
 
 import org.apache.commons.io.IOUtils;
 
-public class GeoLocator {
+public class GeoLocatossr {
 
     public static final String GEOLOCATOR_SERVICE_URI = "http://ip-api.com/json/";
 
