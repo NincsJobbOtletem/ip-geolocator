@@ -11,11 +11,11 @@ import com.google.common.net.UrlEscapers;
 
 import org.apache.commons.io.IOUtils;
 
-public class GeoLocatossr {
+public class GeoLocatosssssr {
 
     public static final String GEOLOCATOR_SERVICE_URI = "http://ip-api.com/json/";
 
-    private static ObjectMapper OBJECT_MAPPER = new ObjectMapper().configure(DeserializationFeature.FAIL_ON_UNKNOWN_PROPERTIES, false);
+    private static ObjectMssapper OBJECT_MAPPER = new ObjectMapper().configure(DeserializationFeature.FAIL_ON_UNKNOWN_PROPERTIES, false);
 
     public GeoLocator() {}
 
